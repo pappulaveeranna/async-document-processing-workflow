@@ -1,0 +1,25 @@
+{
+  "title": "Machine Learning Intro",
+  "category": "Text File",
+  "summary": "Introduction to Machine Learning  Machine learning is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed. It focuses on developing computer programs that can access data and use it to learn for themselves.",
+  "keywords": [
+    "learning",
+    "machine",
+    "data",
+    "neural",
+    "networks",
+    "algorithms",
+    "training",
+    "systems",
+    "deep",
+    "patterns"
+  ],
+  "file_metadata": {
+    "filename": "machine_learning_intro.txt",
+    "file_type": "text/plain",
+    "file_size_bytes": 1313,
+    "word_count": 198,
+    "char_count": 1313
+  },
+  "processed_at": "2026-03-30T14:00:00.000000"
+}
