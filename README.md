@@ -130,8 +130,8 @@ job_queued
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url>
-cd "Build an Async Document Processing Workflow System"
+git clone https://github.com/pappulaveeranna/async-document-processing-workflow.git
+cd async-document-processing-workflow
 
 # 2. Start all 5 services (db, redis, api, worker, frontend)
 docker compose up --build
